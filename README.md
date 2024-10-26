@@ -72,23 +72,4 @@ The project is created with:
 * Numpy: 1.21.5
 * beautifulsoup4 4.11.1
 
-![](https://img.icons8.com/color/48/null/python--v1.png)![](https://img.icons8.com/color/48/null/numpy.png)![](Assets/streamlit-icon-48x48.png)![](Assets/fastapi.ico)![](Assets/scikit-learn.ico) ![](https://img.icons8.com/color/48/null/pandas.png)
 
-## :whale: Setup
-
-### Run it locally
-#### Clone the repo
-```
-$ git clone https://github.com/zakaria-narjis/Diet-Recommendation-System
-```
-### docker-compose
-In the project root run:
-```
-$ docker-compose up -d --build
-```
-Then open http://localhost:8501 and enjoy :smiley:.
-
-PS: You should have docker and docker-compose already installed
-### Use the hosted version on Streamlit Cloud
-
-https://diet-recommendation-system.streamlit.app/
