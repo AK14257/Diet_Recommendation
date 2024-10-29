@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "909016001955",
+    "firebase_url": "https://uber-eats-5def4-default-rtdb.firebaseio.com",
+    "project_id": "uber-eats-5def4",
+    "storage_bucket": "uber-eats-5def4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909016001955:android:3acc4fb9bb036d4dc93e16",
+        "android_client_info": {
+          "package_name": "com.example.ubeatsdriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS8koXd_CJ15JLkK48RS5OqkyuDeUMs4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909016001955:android:7518249df8080851c93e16",
+        "android_client_info": {
+          "package_name": "com.example.ubereats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS8koXd_CJ15JLkK48RS5OqkyuDeUMs4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909016001955:android:e23f767fe0ff7b6fc93e16",
+        "android_client_info": {
+          "package_name": "com.example.ubereatsdriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS8koXd_CJ15JLkK48RS5OqkyuDeUMs4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909016001955:android:fb5841a9ca84b27bc93e16",
+        "android_client_info": {
+          "package_name": "com.example.ubereatsresturants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS8koXd_CJ15JLkK48RS5OqkyuDeUMs4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

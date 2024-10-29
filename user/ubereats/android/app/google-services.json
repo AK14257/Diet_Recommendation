@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909016001955",
+    "project_id": "uber-eats-5def4",
+    "storage_bucket": "uber-eats-5def4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909016001955:android:7518249df8080851c93e16",
+        "android_client_info": {
+          "package_name": "com.example.ubereats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS8koXd_CJ15JLkK48RS5OqkyuDeUMs4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
